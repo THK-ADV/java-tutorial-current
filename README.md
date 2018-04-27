@@ -1,5 +1,3 @@
-# java-tutorial-current
-
 ## Git Commands
 
 ### Getting & Creating Projects
