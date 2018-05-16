@@ -1,4 +1,4 @@
-package exkurs.statics;
+package beispiele.statics;
 
 public class StaticsTest {
 

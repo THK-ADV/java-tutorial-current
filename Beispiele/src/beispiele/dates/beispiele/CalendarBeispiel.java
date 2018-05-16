@@ -1,6 +1,6 @@
-package exkurs.dates.beispiele;
+package beispiele.dates.beispiele;
 
-import exkurs.dates.BeispielMethoden;
+import beispiele.dates.BeispielMethoden;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

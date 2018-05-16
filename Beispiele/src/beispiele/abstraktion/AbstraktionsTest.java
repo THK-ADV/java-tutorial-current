@@ -1,4 +1,4 @@
-package exkurs.abstraktion;
+package beispiele.abstraktion;
 
 public class AbstraktionsTest {
 

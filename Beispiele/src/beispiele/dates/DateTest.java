@@ -1,8 +1,8 @@
-package exkurs.dates;
+package beispiele.dates;
 
-import exkurs.dates.beispiele.CalendarBeispiel;
-import exkurs.dates.beispiele.DateBeispiel;
-import exkurs.dates.beispiele.LocalDateTimeBeispiel;
+import beispiele.dates.beispiele.CalendarBeispiel;
+import beispiele.dates.beispiele.DateBeispiel;
+import beispiele.dates.beispiele.LocalDateTimeBeispiel;
 
 public class DateTest {
 

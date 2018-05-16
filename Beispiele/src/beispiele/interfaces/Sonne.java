@@ -1,4 +1,4 @@
-package exkurs.interfaces;
+package beispiele.interfaces;
 
 public class Sonne implements KannLeuchten{
 

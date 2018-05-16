@@ -1,4 +1,4 @@
-package exkurs.setterAndGetter;
+package beispiele.setterAndGetter;
 
 public class Bruch {
 

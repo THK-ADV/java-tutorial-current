@@ -1,6 +1,6 @@
-package exkurs.dates.beispiele;
+package beispiele.dates.beispiele;
 
-import exkurs.dates.BeispielMethoden;
+import beispiele.dates.BeispielMethoden;
 
 import java.time.LocalDateTime;
 

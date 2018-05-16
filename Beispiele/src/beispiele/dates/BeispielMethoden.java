@@ -1,4 +1,4 @@
-package exkurs.dates;
+package beispiele.dates;
 
 public interface BeispielMethoden {
 

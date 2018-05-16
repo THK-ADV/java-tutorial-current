@@ -1,4 +1,4 @@
-package exkurs.konstruktoren;
+package beispiele.konstruktoren;
 
 public class KonstruktorenTest {
 
