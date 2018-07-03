@@ -3,6 +3,28 @@ https://docs.google.com/forms/d/e/1FAIpQLSds22wMgvvrQAn9rNlf0pGJ_x7V52W1xE9t9yUU
 
 ## Fragen aus dem Quiz
 
+1.  Was ist eine Instanz?
+2. Mit welchem Schlüsselwort erbt man von einer Klasse?
+3. Mit welchem Schlüsselwort implementiert man ein Interface?
+4. Was ist ein Interface?
+5. Mit welchem Schlüsselwort ruft man eine Methode in der Super-Klasse auf?
+6. Wie ruft man den Konstruktor des eigenen Klasse auf?
+7. Mit welchem Schlüsselwort greift man auf eine Variable in der eigenen Objekt zu?
+8. Mit welchem Schlüsselwort kann man einen Methodenblock verlassen
+9. Mit welchem Schlüsselwort gibt man etwas aus einer Methode zurück
+10. Mit welchem Schlüsselwort kann man eine Schleife abbrechen
+11. Welche Privacymodifikatoren gibt es?
+12. Was ist der Standardwert einer int-Variable
+13. Was ist ein int
+14. Was ist ein String
+15. Was ist ein Boolean
+16. Welche Methode wird auf einem Objekt ausgeführt wenn es gesprintet werden soll
+17. Was ist ein Iterator
+18. Welche Methoden hat ein Iterator
+19. Welche Schleifen gibt es
+20. Mit welchem Schlüsselwort wird eine Konstante definiert?
+21. Was macht das Schlüsselwort static
+
 ## Beispiele
 Im Modul Exkurs sind ab jetzt Beispiele zu einigen im Tutorium behandelten Themen zu finden.
 
